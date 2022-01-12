@@ -1,0 +1,9 @@
+frog
+fish
+duck
+crab
+goat
+lamb
+lion
+tuna
+worm

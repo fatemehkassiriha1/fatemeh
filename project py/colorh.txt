@@ -1,0 +1,7 @@
+magenta
+oldgold
+oldrose
+iceblue
+skyblue
+bloodred
+ashygray

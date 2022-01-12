@@ -1,0 +1,7 @@
+chef
+boss
+pilot
+cook
+actor
+nurse
+baker
