@@ -1,0 +1,8 @@
+rice
+meat
+diet
+cake
+tart
+steak
+toast
+bread

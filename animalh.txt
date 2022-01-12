@@ -1,0 +1,10 @@
+kangaroo
+elephant
+goldfish
+lovebird
+darkfrog
+anteater
+squirral
+dolphin
+gorilla
+giraffe
